@@ -105,9 +105,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="LSD.dll">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Readme.txt" />
     <Content Include="x64\LSD.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
