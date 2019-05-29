@@ -11,3 +11,4 @@ Note that builds from different versions of Visual Studio may cause a problem wi
 Solution have an example to work with emgu cv LineSegment2D, so, please check their license before using: http://www.emgu.com/wiki/index.php/Licensing:
 Otherwise you can use lsd.net.bitmap to work with system.drawing objects.
 
+![Screenshot](example%20lines.png)
