@@ -13,19 +13,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSD.net.bitmap", "LSD.net.b
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{948B9116-295A-4742-ABBA-62B0DA0EBF7C}"
 	ProjectSection(SolutionItems) = preProject
-		WindowsFormsApplication1\bin\Debug\test\example lines.png = WindowsFormsApplication1\bin\Debug\test\example lines.png
-		WindowsFormsApplication1\bin\Debug\test\LSD.net.bitmap.dll = WindowsFormsApplication1\bin\Debug\test\LSD.net.bitmap.dll
-		WindowsFormsApplication1\bin\Debug\test\WindowsFormsApplication1.exe = WindowsFormsApplication1\bin\Debug\test\WindowsFormsApplication1.exe
+		test\example lines.png = test\example lines.png
+		test\LSD.net.bitmap.dll = test\LSD.net.bitmap.dll
+		test\WindowsFormsApplication1.exe = test\WindowsFormsApplication1.exe
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x64", "x64", "{71DDF36A-3ACB-42A7-B109-4B6FA79C62A7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x64", "x64", "{AD970727-9494-4D34-8E60-D3088487B005}"
 	ProjectSection(SolutionItems) = preProject
-		WindowsFormsApplication1\bin\Debug\test\x64\LSD.dll = WindowsFormsApplication1\bin\Debug\test\x64\LSD.dll
+		test\x64\LSD.dll = test\x64\LSD.dll
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x86", "x86", "{F5A9F717-D441-4861-B526-09204565465C}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "x86", "x86", "{B2F4A429-C6C1-47AE-9740-63386F612463}"
 	ProjectSection(SolutionItems) = preProject
-		WindowsFormsApplication1\bin\Debug\test\x86\LSD.dll = WindowsFormsApplication1\bin\Debug\test\x86\LSD.dll
+		test\x86\LSD.dll = test\x86\LSD.dll
 	EndProjectSection
 EndProject
 Global
@@ -119,7 +119,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{71DDF36A-3ACB-42A7-B109-4B6FA79C62A7} = {948B9116-295A-4742-ABBA-62B0DA0EBF7C}
-		{F5A9F717-D441-4861-B526-09204565465C} = {948B9116-295A-4742-ABBA-62B0DA0EBF7C}
+		{AD970727-9494-4D34-8E60-D3088487B005} = {948B9116-295A-4742-ABBA-62B0DA0EBF7C}
+		{B2F4A429-C6C1-47AE-9740-63386F612463} = {948B9116-295A-4742-ABBA-62B0DA0EBF7C}
 	EndGlobalSection
 EndGlobal
